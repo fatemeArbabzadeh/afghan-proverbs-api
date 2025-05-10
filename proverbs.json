@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "textDari": "کار از محکم کاری عیب نمی‌کند",
+      "textPashto": "احتیاط د ایمان نیمه ده",
+      "translationEn": "Better safe than sorry",
+      "meaning": "It’s wise to be careful and thorough.",
+      "category": "advice"
+    },
+    {
+      "id": 2,
+      "textDari": "نیکی کن و در دجله انداز",
+      "textPashto": "ښه کوه اوبه ته یې واچوه",
+      "translationEn": "Do good and throw it in the river",
+      "meaning": "Do good without expecting a reward.",
+      "category": "wisdom"
+    }
+  ]
